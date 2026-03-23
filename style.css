@@ -1,0 +1,38 @@
+nav ul {
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    background-color: black;
+}
+nav ul li {
+    width: 20%;
+}
+a {
+    color: white;
+}
+nav {
+    margin: 0;
+    padding: 0;
+}
+main {
+    display: flex;
+}
+article {
+    width: 60%;
+    margin: 1.5em 2.52525% 0 2.0202%;
+}
+article img {
+    max-width: 100%; 
+    margin-bottom: 1em;
+}
+aside {
+    width: 40%;
+    padding: 2.0202%;
+    max-width: 200px;
+    min-height: 180px;
+    background-color: #ffebc6;
+    margin: 0 2.0202% 0 0;
+}
+footer {
+    background-color: pink;
+}
